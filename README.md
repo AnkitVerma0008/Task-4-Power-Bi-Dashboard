@@ -49,11 +49,8 @@ This project was created as part of a Data Analyst Internship (Task 4). The obje
 
 ---
 
-## Dashboard Preview
 
-(Add your dashboard screenshot here)
 
----
 
 ## Files Included
 - Financial_Sales_Dashboard.pbix
